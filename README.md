@@ -7,8 +7,7 @@
 </head>
 <body>
     <h2>Order Your Fresh Eggs</h2>
-    <form action="submit_order.php" method="post">
-        
+    <form action="submit_order.php" method="post">    
         <!-- Select Chicken Type -->
         <label for="chickenType">Select Chicken Type:</label>
         <select id="chickenType" name="chickenType" required>
