@@ -1,5 +1,4 @@
-# Whiskey-Rock-Farm
-<!DOCTYPE html>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
